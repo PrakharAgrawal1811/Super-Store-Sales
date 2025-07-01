@@ -87,16 +87,4 @@ To explore and analyze Superstore data to:
 - Delivered a comprehensive analysis suitable for **business decision-making**.
 - Highlighted key areas of improvement in **logistics**, **pricing**, and **customer segmentation**.
 
----
-
-## 📌 Author
-
-**Prakhar Agrawal**  
-📧 [Your Email] | 💼 [LinkedIn Profile] | 📦 [GitHub Profile]
-
----
-
-## 🔗 Connect With Me
-
-Feel free to connect and collaborate on similar data analytics, visualization, and business intelligence projects!
 
